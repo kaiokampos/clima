@@ -27,13 +27,15 @@ This project allows users to check the weather in various locations around the w
    ```
 3.Open the index.html file in your browser or use a local server to view the project.
 
-clima/
+📂 Project Structure
+
+ClimaAgora/
 │
-├── assets/               # Contém arquivos estáticos
-│   ├── css/              # Arquivos de estilo
-│   │   └── style.css     # Estilos principais
-│   ├── img/              # Imagens
-│   └── js/               # Arquivos JavaScript
-│       └── clima.js      # Lógica principal da aplicação
-├── index.html            # Arquivo HTML principal
-└── README.md             # Documentação do projeto
+├── assets/               # Images and other static files
+├── scripts/              # JavaScript files
+│   └── app.js            # Main JavaScript for fetching and displaying weather data
+├── styles/               # CSS files
+│   └── styles.css        # Main styles
+├── index.html            # Main HTML file
+└── README.md             # Project documentation
+
