@@ -28,7 +28,7 @@ This project allows users to check the weather in various locations around the w
 3.Open the index.html file in your browser or use a local server to view the project.
 
 📂 Project Structure
-
+```
 ClimaAgora/
 │
 ├── assets/               # Images and other static files
@@ -38,4 +38,4 @@ ClimaAgora/
 │   └── styles.css        # Main styles
 ├── index.html            # Main HTML file
 └── README.md             # Project documentation
-
+```
