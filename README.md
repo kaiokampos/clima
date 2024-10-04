@@ -6,10 +6,6 @@
   <!-- <a href="#-projeto">Deployment</a> -->
 </p>
 
-<p align="center">
-  <img height="400px" src="./assets/video/clima.webm">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
